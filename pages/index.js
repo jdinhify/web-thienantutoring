@@ -1,3 +1,5 @@
 import React from 'react'
 
-export default () => <div>next.js</div>
+import Home from '../modules/home'
+
+export default () => <Home />
