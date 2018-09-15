@@ -29,7 +29,7 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(/static/book.jpeg);
+        background: url(/static/book.jpg);
         background-size: cover;
         opacity: 0.1;
         top: 0;

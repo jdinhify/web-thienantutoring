@@ -22,7 +22,7 @@ export default () => (
 
       .container::after {
         content: "";
-        background: url(/static/math.jpeg);
+        background: url(/static/math.jpg);
         background-size: cover;
         opacity: 0.1;
         top: 0;
