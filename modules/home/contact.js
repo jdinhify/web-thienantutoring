@@ -14,9 +14,12 @@ export default () => (
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Parents & Friends - Cuong Tran</h3>
         <h3>Address - 51 Mitchell St, Brunswick</h3>
-        <h3>Tel:  9386 6522</h3>
-        <h3>Mobile:  0438 933 923</h3>
-        <h3>Email:  thienantutoringcentre@gmail.com</h3>
+        <h3>Tel: 9386 6522</h3>
+        <h3>Mobile: 0438 933 923</h3>
+        <h3>
+          {'Email: '}
+          <a href="mailto:thienantutoringcentre@gmail.com">thienantutoringcentre@gmail.com</a>
+        </h3>
       </div>
     </div>
 
