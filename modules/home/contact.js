@@ -9,7 +9,7 @@ export default () => (
         <h2>Contact</h2>
 
         <h3>Thien An Tutoring Centre</h3>
-        <h3>Principal - Marguirite Nguyen</h3>
+        <h3>Principal - Marguerite Nguyen</h3>
         <h3>Assistant Principal - Thi Phan</h3>
         <h3>Secretary - Mai Nguyen</h3>
         <h3>Parents & Friends - Cuong Tran</h3>

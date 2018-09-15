@@ -9,7 +9,7 @@ export default () => (
       <h3 className="bold">Founded in 2007</h3>
       <h3>
         Thien An Tutoring Centre is an ethnic school teaching English and Maths for Vietnamese students,
-        especially the ones who migrates to Australia and need support to settle down to daily schools.
+        especially the ones who migrates to Australia and need support to settle down to daily schools
       </h3>
       <h3>Tutors are all volunteers and who are uni students, teachers, ex teachers</h3>
       <h3>Staff are all volunteers and who are parents, community members</h3>

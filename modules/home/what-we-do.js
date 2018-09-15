@@ -9,7 +9,7 @@ export default () => (
         <h2>What we do</h2>
 
         <h3>We teach English and Maths</h3>
-        <h3>Classes are held during school terms on Saturdays, from 2pm to 4pm.</h3>
+        <h3>Classes are held during school terms on Saturdays, from 2pm to 4pm</h3>
         <h3>Classes are from year 1 level to year 10</h3>
         <br />
         <h3>No fees is charged, only $100 a year per student for learning materials </h3>
