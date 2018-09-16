@@ -41,7 +41,7 @@ export default () => (
         color: ${colors.blue};
         border-bottom: 4px solid ${colors.yellow};
         display: inline-block;
-        font-size: 4rem;
+        font-size: 3rem;
       }
 
       h2 {
